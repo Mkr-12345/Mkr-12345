@@ -48,5 +48,5 @@ Tech Stack
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/manish-kumar-00937132b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://www.linkedin.com/in/manish-kumar-00937132b)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manishokok841204@gmail.com)
