@@ -11,7 +11,7 @@
  About Me
 -  I’m improving my skills in **React, JavaScript, and DSA in C++**
 -  Ask me about **C++, Java, Web Dev, Hackathons**
--  Reach me at: manish841204@gmail.com
+-  Reach me at: manishokok841204@gmail.com
 
 ---
 
