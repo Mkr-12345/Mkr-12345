@@ -3,7 +3,7 @@
 <p align="center">
   🚀 B.Tech @ IIIT Sonepat <br/>
   💻 Web developer | Java and C++ Programmer <br/>
-  🎯 Hackathon Enthusiast | Builder of MKR Hotels & SwasthyaSetu <br/>
+  🎯 Hackathon Enthusiast <br/>
 </p>
 
 ---
