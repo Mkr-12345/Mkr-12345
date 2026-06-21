@@ -16,6 +16,7 @@
 ---
 
 Tech Stack
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
