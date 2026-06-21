@@ -2,15 +2,15 @@
 
 <p align="center">
   🚀 B.Tech @ IIIT Sonepat <br/>
-  💻 Web developer | Java and C++ Programmer <br/>
-  🎯 Hackathon Enthusiast <br/>
+  💻 Web developer and DSA Grind <br/>
+  🎯 Hackathon Enthusiast and ML  <br/>
 </p>
 
 ---
 
  About Me
--  I’m improving my skills in **React, JavaScript, and DSA in C++**
--  Ask me about **C++, Java, Web Dev, Hackathons**
+-  I’m improving my skills in **Machine Learning and DSA in C++**
+-  Ask me about **C, C++, Java, Python, Web Dev, Hackathons**
 -  Reach me at: manishokok841204@gmail.com
 
 ---
