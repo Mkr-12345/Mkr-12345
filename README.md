@@ -55,5 +55,5 @@ Tech Stack
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/manish-kumar-00937132b)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-00937132b)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manishokok841204@gmail.com)
