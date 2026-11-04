@@ -10,8 +10,8 @@
 
  About Me
 -  I’m improving my skills in **Machine Learning and DSA in C++**
--  Ask me about **C, C++, Java, Python, Web Dev, Hackathons**
--  Reach me at: manishokok841204@gmail.com
+-  Ask me about **C, C++, Java, Python, Machine Learning, Deep Learning, Web Dev, AI Evaluation, Hackathons**
+-  Reach me at: connectmanishkumar33@gmail.com
 
 ---
 
