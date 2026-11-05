@@ -2,8 +2,8 @@
 
 <p align="center">
   🚀 B.Tech @ IIIT Sonepat <br/>
-  💻 Web developer and DSA Grind <br/>
-  🎯 Hackathon Enthusiast and ML  <br/>
+  💻 ML Engineer, Web developer and DSA Grind <br/>
+  🎯 Hackathon Enthusiast and Competitive Programmer  <br/>
 </p>
 
 ---
