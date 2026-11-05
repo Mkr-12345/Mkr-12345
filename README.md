@@ -38,7 +38,7 @@ Tech Stack
 |--------|-------------|
 | [AI-Chatbot](https://github.com/Mkr-12345/AI-Chatbot) | A Python chatbot with conversation history, prompt switching, and prompt comparison for OpenAI-compatible LLM APIs. |
 | [Parallel File Encryptor](https://github.com/Mkr-12345/parallel-file-encryptor) | A C++17 command-line tool for parallel batch file encryption and decryption using fork-based workers and chunked I/O. |
-| [MNP HOTELS](https://github.com/PiyushKumarBharati/Hotel-Management-Website) | A responsive hotel booking website built with HTML, CSS, and JavaScript. |
+| [MKR HOTELS](https://github.com/Mkr-12345/Hotel-Management-Website) | A responsive hotel booking website built with HTML, CSS, and JavaScript. |
 |[Flipkart-clone](https://github.com/Mkr-12345/Flipkart-clone) | A fully functional flipkart clone built with HTML, CSS, and JavaScript.|
 
 ---
