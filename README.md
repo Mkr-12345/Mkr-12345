@@ -38,20 +38,8 @@ Tech Stack
 |--------|-------------|
 | [AI-Chatbot](https://github.com/Mkr-12345/AI-Chatbot) | A Python chatbot with conversation history, prompt switching, and prompt comparison for OpenAI-compatible LLM APIs. |
 | [Parallel File Encryptor](https://github.com/Mkr-12345/parallel-file-encryptor) | A C++17 command-line tool for parallel batch file encryption and decryption using fork-based workers and chunked I/O. |
-| [MKR HOTELS](https://github.com/Mkr-12345/Hotel-Management-Website) | A responsive hotel booking website built with HTML, CSS, and JavaScript. |
+| [MKR HOTELS](https://github.com/Mkr-12345/Hotel-Management-Website) | A fully functional hotel management and booking website built with Django, featuring authentication, availability checks, Razorpay payments, bookings, refunds, email notifications, and an admin dashboard. |
 |[Flipkart-clone](https://github.com/Mkr-12345/Flipkart-clone) | A fully functional flipkart clone built with HTML, CSS, and JavaScript.|
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mkr-12345&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Mkr-12345&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkr-12345&layout=compact&theme=radical" />
-</p>
 
 ---
 
