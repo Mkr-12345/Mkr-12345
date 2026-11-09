@@ -53,12 +53,12 @@ Tech Stack
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mkr-12345&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Mkr-12345&hide_border=true&theme=transparent" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mkr-12345&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Mkr-12345&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkr-12345&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mkr-12345&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top programming languages" />
 </div>
 
 ---
