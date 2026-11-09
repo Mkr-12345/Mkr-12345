@@ -50,6 +50,19 @@ Tech Stack
 
 ---
 
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mkr-12345&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Mkr-12345&hide_border=true&theme=transparent" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkr-12345&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+</div>
+
+---
+
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-00937132b)  
